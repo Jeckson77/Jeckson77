@@ -31,9 +31,9 @@ My philosophy: Don't just learn technology. Use it to build something meaningful
 
 
 
-💻 Tech Stack & Technologies
+<h1><b>💻 Tech Stack & Technologies</b></h1>
 
-Programming Languages
+<h><b>Programming Languages</b></h>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php" />
