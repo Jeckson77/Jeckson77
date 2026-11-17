@@ -44,7 +44,7 @@ My philosophy: Don't just learn technology. Use it to build something meaningful
 </p>Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,mysql,sqlite,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,php,mysql,sqlite,firebase,Render" />
 </p>Tools & Development Environment
 
 <p align="center">
