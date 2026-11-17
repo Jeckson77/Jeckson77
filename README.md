@@ -40,7 +40,7 @@ My philosophy: Don't just learn technology. Use it to build something meaningful
 </p>Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,flutter,androidstudio" />
 </p>Backend & Databases
 
 <p align="center">
