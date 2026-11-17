@@ -29,7 +29,7 @@ I enjoy exploring different areas of computing, from application development and
 
 My philosophy: Don't just learn technology. Use it to build something meaningful.
 
----
+
 
 💻 Tech Stack & Technologies
 
@@ -109,7 +109,7 @@ Explore my repositories for more experiments, programming projects and developme
 - Contribute to open-source projects.
 - Build technology that makes a difference in Namibia.
 
----
+
 
 🤝 Let's Connect
 
