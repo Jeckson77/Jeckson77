@@ -40,7 +40,7 @@ Programming Languages
 </p>Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,flutter" />
 </p>Backend & Databases
 
 <p align="center">
