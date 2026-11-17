@@ -10,7 +10,7 @@
   </a>
   <img src="https://img.shields.io/badge/Location-Namibia-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Field-Computing-blue?style=for-the-badge" />
-</p>---
+</p>
 
 🧠 About Me
 
@@ -48,8 +48,8 @@ Programming Languages
 </p>Tools & Development Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
-</p>---
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,figcraft" />
+</p>
 
 🚀 Featured Projects
 
@@ -79,7 +79,7 @@ Explore my repositories for more experiments, programming projects and developme
   <a href="https://github.com/Jeckson77?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Projects-00C7FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>---
+</p>
 
 📊 GitHub Statistics
 
@@ -98,7 +98,7 @@ Explore my repositories for more experiments, programming projects and developme
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeckson77&theme=tokyo-night&hide_border=true" />
-</p>---
+</p>
 
 🎯 Current Goals
 
@@ -119,7 +119,7 @@ I'm always interested in connecting with developers, students, technology enthus
   <a href="https://github.com/Jeckson77">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" />
   </a>
-</p>---
+</p>
 
 <p align="center">
   <b>💡 Think. Code. Build. Innovate.</b>
