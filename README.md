@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Field-Computing-blue?style=for-the-badge" />
 </p>
 
-🧠 About Me
+<h1><b>🧠 About Me</b></h1>
 
 I'm Jeckson, a Computing student from Namibia passionate about software development, emerging technologies and building solutions that solve real-world problems.
 
