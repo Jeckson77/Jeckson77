@@ -36,30 +36,16 @@ I enjoy exploring application development, database management, artificial intel
 <p align="center"><img src="https://skillicons.dev/icons?i=python,java,js,html,css,php" alt="Python, HTML, CSS" /></p>
 
 ### **Frontend & Mobile Development**
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,flutter,androidstudio" alt="Frontend and mobile technologies" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,react,flutter,androidstudio" alt="Frontend and mobile technologies" /></p>
 
 ### **Backend & Databases**
-<p align="center"><img src="https://skillicons.dev/icons?i=python,php,mysql,sqlite,firebase" alt="Backend and database technologies" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,mysql,sqlite" alt="Backend and database technologies" /></p>
 
 ### **Tools & Development Environment**
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Development tools" /></p>
 
 ## 🚀 Featured Projects
 
-### 🏥 **MESMTF — Medical Expert System**
-A medical information and management platform designed around different healthcare user roles.
-
-**Focus:** Healthcare technology · Authentication · Database management · Web development
-
-### 📡 **TeleConnectHub**
-A telecommunications learning platform concept designed to connect students with technology resources and opportunities.
-
-**Focus:** Telecommunications · 5G · IoT · Satellite technology · Education
-
-### 📊 **Government Media Monitor**
-A media monitoring and sentiment analysis platform concept for organizing media stories and analyzing public sentiment.
-
-**Focus:** Data management · Sentiment analysis · Database architecture
 
 ### 💻 **More Projects**
 Explore my repositories for more experiments, programming projects, and development ideas.
