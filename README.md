@@ -93,6 +93,7 @@ I'm always interested in connecting with **developers, students, technology enth
 <p align="center">
   <a href="https://github.com/Jeckson77"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="Follow me on GitHub" /></a>
   <a href="https://www.linkedin.com/in/tuyoleni-gerhard-a865a435b/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /></a>
+  <a href="mailto:gerhardnaftal755@gmail.com"><img src="https://img.shields.io/badge/Email-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 </p>
 
 <p align="center">
