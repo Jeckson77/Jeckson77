@@ -22,9 +22,9 @@ I enjoy exploring application development, database management, artificial intel
 
 - **Education:** Computing student
 - **Career goal:** Aspiring full-stack developer
-- **Programming interests:** Python and Java
+- **Programming interests:** Python, React and Flutter
 - **Exploring:** Web development and database systems
-- **Interests:** Artificial intelligence and mobile applications
+- **Interests:** Artificial intelligence, mobile applications, Machine Learning and LLM
 - **Focus:** Building practical software projects
 - **Location:** Namibia 🇳🇦
 
