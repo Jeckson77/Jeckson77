@@ -90,7 +90,10 @@ Explore my repositories for more experiments, programming projects, and developm
 
 I'm always interested in connecting with **developers, students, technology enthusiasts, and potential collaborators**.
 
-<p align="center"><a href="https://github.com/Jeckson77"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="Follow me on GitHub" /></a></p>
+<p align="center">
+  <a href="https://github.com/Jeckson77"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="Follow me on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/tuyoleni-gerhard-a865a435b/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" /></a>
+</p>
 
 <p align="center">
   <strong>Think. Code. Build. Innovate.</strong><br />
