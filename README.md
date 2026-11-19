@@ -33,7 +33,7 @@ I enjoy exploring application development, database management, artificial intel
 ## 💻 Tech Stack & Technologies
 
 ### **Programming Languages**
-<p align="center"><img src="https://skillicons.dev/icons?i=python,java,js,html,css,php" alt="Python, Java, JavaScript, HTML, CSS and PHP" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,java,js,html,css,php" alt="Python, HTML, CSS" /></p>
 
 ### **Frontend & Mobile Development**
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,flutter,androidstudio" alt="Frontend and mobile technologies" /></p>
