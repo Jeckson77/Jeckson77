@@ -112,6 +112,33 @@ A growing toolkit from my computing coursework, personal projects, prototypes, a
 
 **[View Source Code](https://github.com/Jeckson77/UNAM-OneHub)** · **[Visit OneHub V2](https://unam-onehub-v2.onrender.com)**
 
+### 🎵 Ja Music — Namibian Music Marketplace
+
+<p align="center">
+  <a href="https://github.com/Jeckson77/ja-music">
+    <img src="https://img.shields.io/badge/GitHub-Ja_Music-181717?style=for-the-badge&logo=github" alt="Ja Music repository" />
+  </a>
+  <a href="https://ja-music-development.onrender.com/">
+    <img src="https://img.shields.io/badge/Explore-Ja_Music_Development-FF2D87?style=for-the-badge&logo=render&logoColor=white" alt="Explore Ja Music development website" />
+  </a>
+</p>
+
+**Ja Music** is an artist-first music marketplace concept focused on making Namibian music easier to discover, own and support. The proposed platform lets local musicians sell songs and albums directly to fans, with accessible airtime-based payments as a future goal.
+
+**Prototype features and roadmap:**
+- 🎧 **Listener experience:** Explore Namibian music, browse releases, search tracks and manage a sample library
+- 🎙️ **Artist Studio:** Create local release drafts, propose prices and explore artist business tools
+- 🎁 **Fan support:** Interactive song and album purchase, gifting and wallet flows using simulated balances
+- 💿 **Music discovery:** Real Namibian artist and release references in the prototype
+- 📱 **Design:** Responsive React/Vite website with interactive visual components
+- 💸 **Planned:** Licensed music distribution, telecom-integrated airtime payments, secure transactions and verified artist payouts
+
+**Tech:** React · Vite · JavaScript · CSS · GitHub · Render
+
+> **Development-stage project:** Current transactions, wallets, gifting and earnings are simulations. Artist onboarding, licensed audio distribution, real airtime billing and payouts are not live. Featured artists are not represented as platform partners.
+
+**[View Source Code](https://github.com/Jeckson77/ja-music)** · **[Explore Development Website](https://ja-music-development.onrender.com/)**
+
 ### More Projects
 Explore my repositories for more experiments, programming projects, and development ideas.
 
