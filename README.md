@@ -139,6 +139,17 @@ A growing toolkit from my computing coursework, personal projects, prototypes, a
 
 **[View Source Code](https://github.com/Jeckson77/ja-music)** · **[Explore Development Website](https://ja-music-development.onrender.com/)**
 
+### 🌐 1017 — Technology Studio
+
+<p align="center">
+  <a href="https://one017-tech.onrender.com"><img src="https://img.shields.io/badge/Visit_1017-Company_Website-B7FF6B?style=for-the-badge&logo=render&logoColor=111111" alt="Visit the 1017 technology company website" /></a>
+  <a href="https://github.com/Jeckson77/1017"><img src="https://img.shields.io/badge/GitHub-1017-181717?style=for-the-badge&logo=github" alt="1017 source repository" /></a>
+</p>
+
+**1017** is a Namibia-based emerging technology studio focused on web and mobile development, UI/UX design, AI integration, cloud deployment and custom software solutions. Its website showcases flagship projects **JA Music** and **UNAM OneHub**, the technology toolkit and ways to connect.
+
+**[Visit 1017 Website](https://one017-tech.onrender.com)** · **[Explore Repository](https://github.com/Jeckson77/1017)**
+
 ### More Projects
 Explore my repositories for more experiments, programming projects, and development ideas.
 
