@@ -82,11 +82,35 @@ A growing toolkit from my computing coursework, personal projects, prototypes, a
 
 > **Note:** These technologies reflect different levels of hands-on use, integration, and exploration—not a claim of expert proficiency in every tool.
 
-## Featured Projects
+## 🚀 Featured Projects
 
+### 🎓 UNAM OneHub — Student Productivity Platform
 
-### UNAM OneHub
-A student productivity workspace featuring official portal shortcuts, an academic planner, a DeepSeek-powered assistant integration, and an evolving Supabase authentication foundation. [Explore the repository](https://github.com/Jeckson77/UNAM-OneHub).
+<p align="center">
+  <a href="https://github.com/Jeckson77/UNAM-OneHub">
+    <img src="https://img.shields.io/badge/GitHub-UNAM_OneHub-181717?style=for-the-badge&logo=github" alt="UNAM OneHub repository" />
+  </a>
+  <a href="https://unam-onehub-v2.onrender.com">
+    <img src="https://img.shields.io/badge/Live_Web_App-OneHub_V2-00C7FF?style=for-the-badge&logo=render&logoColor=white" alt="Open OneHub V2" />
+  </a>
+</p>
+
+**OneHub** is an independently developed university-student workspace designed to bring academic planning, university-service shortcuts, and AI study assistance into one responsive interface.
+
+**Implemented and in progress:**
+- 📚 Official university portal links, favorites and quick access
+- 📅 Academic task planner with local browser storage
+- 🤖 OneHub AI assistant with a DeepSeek API backend integration (subject to API configuration)
+- 🔐 Supabase email-authentication foundation (testing and production hardening in progress)
+- 🔗 Portal Connection Center with transparent connection statuses; no unauthorized access to student records
+- ✨ Responsive interface with Liquid Glass-inspired styling and React Bits visual effects
+- ☁️ React/Vite frontend and Node.js backend deployed on Render
+
+**Tech:** React · Vite · JavaScript · CSS · Node.js · Supabase · DeepSeek API · Render · GitHub
+
+> Independent student project, not an official UNAM service. University portal SSO and live student-data integrations are not currently available.
+
+**[View Source Code](https://github.com/Jeckson77/UNAM-OneHub)** · **[Visit OneHub V2](https://unam-onehub-v2.onrender.com)**
 
 ### More Projects
 Explore my repositories for more experiments, programming projects, and development ideas.
