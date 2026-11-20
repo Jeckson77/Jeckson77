@@ -46,7 +46,7 @@ A growing toolkit from my computing coursework, personal projects, prototypes, a
 
 - **React + Vite:** Single-page applications and reusable UI components
 - **Flutter + Dart:** Android application development and testing on a physical Samsung device
-- **PyQt5 / PyQt6, Qt Designer and Kivy:** Python desktop and mobile interface experiments
+- **PyQt5 / PyQt6, Qt Designer, Kivy and Flet:** Python-based desktop, mobile and web UI frameworks and interface development
 - **HTML, CSS and JavaScript:** Responsive websites, interfaces and interactive prototypes
 - **React Bits:** Animated UI components and visual effects
 - **Tailwind CSS, Framer Motion and Lucide React:** Styling, UI motion and icons in the Marine SMR platform
