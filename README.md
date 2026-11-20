@@ -1,4 +1,4 @@
-# Hey, I'm Jeckson!
+<p align="center"><img src="https://raw.githubusercontent.com/Jeckson77/Jeckson77/main/assets/techtext-jeckson.svg" alt="Hey, I'm Jeckson! — animated technical headline" width="900" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Computing+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Building+Solutions+Through+Technology+%F0%9F%9A%80;Future+Tech+Innovator+%F0%9F%8C%8D" alt="Animated introduction" />
