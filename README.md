@@ -49,6 +49,9 @@ A growing toolkit from my computing coursework, personal projects, prototypes, a
 - **PyQt5 / PyQt6, Qt Designer and Kivy:** Python desktop and mobile interface experiments
 - **HTML, CSS and JavaScript:** Responsive websites, interfaces and interactive prototypes
 - **React Bits:** Animated UI components and visual effects
+- **Tailwind CSS, Framer Motion and Lucide React:** Styling, UI motion and icons in the Marine SMR platform
+- **React Leaflet + Leaflet:** Interactive geographic map components
+- **Recharts:** Data visualization and charts
 
 ### Backend, Databases & Authentication
 <p align="center">
@@ -69,6 +72,8 @@ A growing toolkit from my computing coursework, personal projects, prototypes, a
 - **Git and GitHub:** Version control, repositories, branches and project documentation
 - **VS Code:** Daily coding environment
 - **Render:** Deployment and hosting of web applications
+- **jsPDF:** Browser-based PDF report generation in the Marine SMR project
+- **PostCSS and Autoprefixer:** CSS processing in the Vite/Tailwind build pipeline
 - **Figma and React Bits:** UI design exploration and component integration
 - **Android Studio, Android Emulator, ADB and scrcpy:** Android testing and device workflows
 - **Termux:** Terminal-based Android experiments
@@ -146,9 +151,24 @@ A growing toolkit from my computing coursework, personal projects, prototypes, a
   <a href="https://github.com/Jeckson77/1017"><img src="https://img.shields.io/badge/GitHub-1017-181717?style=for-the-badge&logo=github" alt="1017 source repository" /></a>
 </p>
 
-**1017** is a Namibia-based emerging technology studio focused on web and mobile development, UI/UX design, AI integration, cloud deployment and custom software solutions. Its website showcases flagship projects **JA Music** and **UNAM OneHub**, the technology toolkit and ways to connect.
+**1017** is a Namibia-based emerging technology studio focused on web and mobile development, UI/UX design, AI integration, cloud deployment and custom software solutions. Its website showcases featured projects **JA Music**, **UNAM OneHub**, and the **Namibia Coastal FPU / Marine SMR Platform**, the technology toolkit and ways to connect.
 
 **[Visit 1017 Website](https://one017-tech.onrender.com)** · **[Explore Repository](https://github.com/Jeckson77/1017)**
+
+### ⚛️ Namibia Coastal FPU / Marine SMR — Decision Support Platform
+
+<p align="center">
+  <a href="https://github.com/Jeckson77/Namibia-Coastal-FPU-Marine-SMR-Platform"><img src="https://img.shields.io/badge/GitHub-Marine_SMR_Platform-181717?style=for-the-badge&logo=github" alt="Marine SMR project repository" /></a>
+  <a href="https://namibia-coastal-fpu-marine-smr.onrender.com"><img src="https://img.shields.io/badge/Render-Open_Platform-00B5AD?style=for-the-badge&logo=render&logoColor=white" alt="Open the Marine SMR platform" /></a>
+</p>
+
+An interactive **hackathon decision-support prototype** exploring Floating Power Units (FPUs) and Small Modular Reactors (SMRs) in Namibia's Orange Basin. Designed as a strategic planning and visualization environment for the Rosatom Hackathon, not a licensed or operational nuclear system.
+
+**Project modules:** Geographic hazard mapping, monitoring views, technical review, recommendations, a knowledge-based NARI assistant, and decision-report export.
+
+**Verified repository tools:** React 19 · Vite 6 · JavaScript/JSX · Tailwind CSS 3 · PostCSS · Framer Motion · Leaflet · React Leaflet · Recharts · Lucide React · jsPDF · GitHub · Render
+
+**[Open Platform](https://namibia-coastal-fpu-marine-smr.onrender.com)** · **[Source Code](https://github.com/Jeckson77/Namibia-Coastal-FPU-Marine-SMR-Platform)**
 
 ### More Projects
 Explore my repositories for more experiments, programming projects, and development ideas.
