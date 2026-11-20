@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="145" viewBox="0 0 900 145" role="img" aria-label="Hey, I'm Jeckson! animated technical lettering">
+<title>Hey, I'm Jeckson!</title>
+<style>
+.bg{fill:#0b1020;rx:18}.label{font:600 12px monospace;fill:#5f8aa0;letter-spacing:4px}.word{font:700 65px 'Segoe UI',Arial,sans-serif;letter-spacing:-2px;text-anchor:middle;fill:#00c7ff;stroke:#00c7ff;stroke-width:.6;paint-order:stroke fill;animation:reveal 4.8s ease-in-out infinite,glow 4.8s ease-in-out infinite}.trace{font:700 65px 'Segoe UI',Arial,sans-serif;letter-spacing:-2px;text-anchor:middle;fill:none;stroke:#61e6ff;stroke-width:1.5;stroke-dasharray:4 5;opacity:.65;animation:trace 4.8s ease-in-out infinite}.frame{fill:none;stroke:#00c7ff;stroke-width:1;stroke-dasharray:8 7;opacity:.55}.node{fill:#00c7ff;animation:blink 1.8s steps(2,end) infinite}.scan{fill:#b3f6ff;opacity:.3;animation:scan 4.8s ease-in-out infinite}
+@keyframes reveal{0%{opacity:.05;stroke-dasharray:2 12}20%,78%{opacity:1;stroke-dasharray:1000 0}95%,100%{opacity:.15;stroke-dasharray:2 12}}
+@keyframes glow{0%,100%{filter:drop-shadow(0 0 0px #00c7ff)}35%,65%{filter:drop-shadow(0 0 8px #00c7ff)}}
+@keyframes trace{0%,100%{opacity:1;stroke-dashoffset:100}45%,70%{opacity:.08;stroke-dashoffset:0}}
+@keyframes blink{50%{opacity:.2}}
+@keyframes scan{0%{transform:translateX(-730px)}100%{transform:translateX(730px)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}.word{opacity:1}}
+</style>
+<rect class="bg" width="900" height="145" rx="18"/>
+<rect class="frame" x="20" y="18" width="860" height="109" rx="6"/>
+<path d="M20 35h18M20 35V18M862 18h18v18M20 109v18h18M862 127h18v-18" fill="none" stroke="#00c7ff" stroke-width="2"/>
+<text class="label" x="44" y="37">PROFILE / INTRO</text>
+<text class="trace" x="450" y="99">Hey, I'm Jeckson!</text>
+<text class="word" x="450" y="99">Hey, I'm Jeckson!</text>
+<rect class="scan" x="440" y="48" width="3" height="63"/>
+<rect class="node" x="34" y="115" width="5" height="5"/><rect class="node" x="861" y="25" width="5" height="5"/>
+</svg>
