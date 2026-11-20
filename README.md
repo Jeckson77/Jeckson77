@@ -30,39 +30,80 @@ I enjoy exploring application development, database management, artificial intel
 
 > **My philosophy:** Don't just learn technology. Use it to build something meaningful.
 
-## Tech Stack & Technologies
+## 🛠️ Tech Stack & Tools I've Used
 
-### **Programming Languages**
-<p align="center"><img src="https://skillicons.dev/icons?i=python,html,css" alt="Python, HTML, CSS" /></p>
+A growing toolkit from my computing coursework, personal projects, prototypes, and deployed applications.
 
-### **Frontend & Mobile Development**
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,react,flutter,androidstudio" alt="Frontend and mobile technologies" /></p>
+### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,html,css,php,c,cpp,cs" alt="Python, JavaScript, TypeScript, Dart, HTML, CSS, PHP, C, C++, C sharp" />
+</p>
 
-### **Backend & Databases**
-<p align="center"><img src="https://skillicons.dev/icons?i=python,mysql,sqlite" alt="Backend and database technologies" /></p>
+### Frontend, Mobile & Desktop Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,flutter,androidstudio,qt,bootstrap" alt="React, Vite, Flutter, Android Studio, Qt, Bootstrap" />
+</p>
 
-### **Tools & Development Environment**
-<p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Development tools" /></p>
+- **React + Vite:** Single-page applications and reusable UI components
+- **Flutter + Dart:** Android application development and testing on a physical Samsung device
+- **PyQt5 / PyQt6, Qt Designer and Kivy:** Python desktop and mobile interface experiments
+- **HTML, CSS and JavaScript:** Responsive websites, interfaces and interactive prototypes
+- **React Bits:** Animated UI components and visual effects
+
+### Backend, Databases & Authentication
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,sqlite,supabase,mongodb" alt="Node.js, PHP, MySQL, SQLite, Supabase and MongoDB" />
+</p>
+
+- **Node.js:** HTTP backend and API proxy for OneHub
+- **PHP + XAMPP:** Local web-server and database-backed application development
+- **MySQL and SQLite:** Relational data storage and application prototypes
+- **Supabase:** Email-authentication integration being configured for OneHub; production authentication still under verification
+- **Microsoft Access and DataGrip:** Database tools explored
+
+### Development, Design & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" alt="Git, GitHub, VS Code, Figma, Linux and Postman" />
+</p>
+
+- **Git and GitHub:** Version control, repositories, branches and project documentation
+- **VS Code:** Daily coding environment
+- **Render:** Deployment and hosting of web applications
+- **Figma and React Bits:** UI design exploration and component integration
+- **Android Studio, Android Emulator, ADB and scrcpy:** Android testing and device workflows
+- **Termux:** Terminal-based Android experiments
+
+### AI, Graphics & Other Technologies
+- **DeepSeek API:** AI provider integration in the OneHub backend (requires configured credentials and successful testing)
+- **Ollama:** Explored as a cloud AI provider
+- **TradingView Pine Script:** Technical indicator experiments
+- **WebGL2:** Graphics and space-simulation development work
+- **Networking and computer organization:** Subnetting, logic circuits and 8086-related learning
+
+> **Note:** These technologies reflect different levels of hands-on use, integration, and exploration—not a claim of expert proficiency in every tool.
 
 ## Featured Projects
 
 
-###**More Projects**
+### UNAM OneHub
+A student productivity workspace featuring official portal shortcuts, an academic planner, a DeepSeek-powered assistant integration, and an evolving Supabase authentication foundation. [Explore the repository](https://github.com/Jeckson77/UNAM-OneHub).
+
+### More Projects
 Explore my repositories for more experiments, programming projects, and development ideas.
 
 <p align="center"><a href="https://github.com/Jeckson77?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-00C7FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a></p>
 
-##GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jeckson77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeckson77&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
-##Contribution Streak
+## Contribution Streak
 <p align="center"><img src="https://streak-stats.demolab.com?user=Jeckson77&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /></p>
 
-##Contribution Snake
+## Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeckson77/Jeckson77/output/github-contribution-grid-snake-dark.svg" />
@@ -71,13 +112,13 @@ Explore my repositories for more experiments, programming projects, and developm
   </picture>
 </p>
 
-##GitHub Trophies
+## GitHub Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jeckson77&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" /></p>
 
 ## Contribution Activity
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeckson77&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" /></p>
 
-##Current Goals
+## Current Goals
 
 - **Improve** my software development skills.
 - **Build** practical applications.
