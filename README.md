@@ -147,13 +147,13 @@ A growing toolkit from my computing coursework, personal projects, prototypes, a
 ### 🌐 1017 — Technology Studio
 
 <p align="center">
-  <a href="https://one017-tech.onrender.com"><img src="https://img.shields.io/badge/Visit_1017-Company_Website-B7FF6B?style=for-the-badge&logo=render&logoColor=111111" alt="Visit the 1017 technology company website" /></a>
+  <a href="https://1017.gerhardnaftal755.workers.dev"><img src="https://img.shields.io/badge/Visit_1017-Cloudflare_Website-B7FF6B?style=for-the-badge&logo=cloudflare&logoColor=111111" alt="Visit the 1017 technology company website" /></a>
   <a href="https://github.com/Jeckson77/1017"><img src="https://img.shields.io/badge/GitHub-1017-181717?style=for-the-badge&logo=github" alt="1017 source repository" /></a>
 </p>
 
-**1017** is a Namibia-based emerging technology studio focused on web and mobile development, UI/UX design, AI integration, cloud deployment and custom software solutions. Its website showcases featured projects **JA Music**, **UNAM OneHub**, and the **Namibia Coastal FPU / Marine SMR Platform**, the technology toolkit and ways to connect.
+**1017 Tech** is a Namibia-based technology studio focused on web and mobile development, UI/UX design, graphic design and branding, computer services, AI integration, cloud deployment and custom software solutions. Its public website is deployed on Cloudflare Workers with GitHub-based updates. Its website showcases featured projects **JA Music**, **UNAM OneHub**, and the **Namibia Coastal FPU / Marine SMR Platform**, the technology toolkit and ways to connect.
 
-**[Visit 1017 Website](https://one017-tech.onrender.com)** · **[Explore Repository](https://github.com/Jeckson77/1017)**
+**[Visit 1017 Website](https://1017.gerhardnaftal755.workers.dev)** · **[Explore Repository](https://github.com/Jeckson77/1017)** · **[Render backup](https://one017-tech.onrender.com)**
 
 ### ⚛️ Namibia Coastal FPU / Marine SMR — Decision Support Platform
 
