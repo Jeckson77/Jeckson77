@@ -175,6 +175,10 @@ Explore my repositories for more experiments, programming projects, and developm
 
 <p align="center"><a href="https://github.com/Jeckson77?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-00C7FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a></p>
 
+## 🔖 Useful Developer Tools & References
+
+- **[REA — Reverse Engineer Anything](https://github.com/morluto/rea):** An open-source toolkit for AI-assisted software reverse engineering and analysis. Saved here as a learning and development reference (not a project I created).
+
 ## GitHub Statistics
 
 <p align="center">
